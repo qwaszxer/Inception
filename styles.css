@@ -1,0 +1,226 @@
+body {
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 30px;
+}
+
+#media {
+  position: absolute;
+  padding-top: 10px;
+  height: 50px;
+  width: 200px;
+  top:20px;
+  left:30px;
+  text-align: center;
+}
+
+#youtube {
+  position: absolute;
+  height: 60px;
+  width: 60px;
+  top:20px;
+  left:240px;
+}
+
+#twitch {
+  position: absolute;
+  height: 60px;
+  width: 60px;
+  top:20px;
+  left:310px;
+}
+
+#soundcloud {
+  position: absolute;
+  height: 60px;
+  width: 60px;
+  top:20px;
+  left:380px;
+}
+
+#social {
+  position: absolute;
+  padding-top: 10px;
+  height: 50px;
+  width: 200px;
+  top:100px;
+  left:30px;
+  text-align: center;
+}
+
+#vk {
+  position: absolute;
+  height: 60px;
+  width: 60px;
+  top:100px;
+  left:240px;
+}
+
+#instagram {
+  position: absolute;
+  height: 60px;
+  width: 60px;
+  top:100px;
+  left:310px;
+}
+
+#twitter {
+  position: absolute;
+  height: 60px;
+  width: 60px;
+  top:100px;
+  left:380px;
+}
+
+#facebook {
+  position: absolute;
+  height: 60px;
+  width: 60px;
+  top:100px;
+  left:450px;
+}
+
+#search {
+  position: absolute;
+  padding-top: 10px;
+  height: 50px;
+  width: 200px;
+  top:180px;
+  left:30px;
+  text-align: center;
+}
+
+#google {
+  position: absolute;
+  height: 60px;
+  width: 60px;
+  top:180px;
+  left:240px;
+}
+
+#yandex {
+  position: absolute;
+  height: 60px;
+  width: 60px;
+  top:180px;
+  left:310px;
+}
+
+#duckduckgo {
+  position: absolute;
+  height: 60px;
+  width: 60px;
+  top:180px;
+  left:380px;
+}
+
+#mail {
+  position: absolute;
+  padding-top: 10px;
+  height: 50px;
+  width: 200px;
+  top:260px;
+  left:30px;
+  text-align: center;
+}
+
+#gmail {
+  position: absolute;
+  height: 60px;
+  width: 60px;
+  top:260px;
+  left:240px;
+}
+
+#ymail {
+  position: absolute;
+  height: 60px;
+  width: 60px;
+  top:260px;
+  left:310px;
+}
+
+#clouds {
+  position: absolute;
+  padding-top: 10px;
+  height: 50px;
+  width: 200px;
+  top:340px;
+  left:30px;
+  text-align: center;
+}
+
+#gdrive {
+  position: absolute;
+  height: 60px;
+  width: 60px;
+  top:340px;
+  left:240px;
+}
+
+#ydisk {
+  position: absolute;
+  height: 60px;
+  width: 60px;
+  top:340px;
+  left:310px;
+}
+
+#programming {
+  position: absolute;
+  padding-top: 10px;
+  height: 50px;
+  width: 200px;
+  top:420px;
+  left:30px;
+  text-align: center;
+}
+
+#github {
+  position: absolute;
+  height: 60px;
+  width: 60px;
+  top:420px;
+  left:240px;
+}
+
+#translate {
+  position: absolute;
+  padding-top: 10px;
+  height: 50px;
+  width: 200px;
+  top:500px;
+  left:30px;
+  text-align: center;
+}
+
+#gtranslate {
+  position: absolute;
+  height: 60px;
+  width: 60px;
+  top:500px;
+  left:240px;
+}
+
+#read {
+  position: absolute;
+  padding-top: 10px;
+  height: 50px;
+  width: 200px;
+  top:580px;
+  left:30px;
+  text-align: center;
+}
+
+#anon {
+  position: absolute;
+  height: 60px;
+  width: 60px;
+  top:580px;
+  left:240px;
+}
+
+#schedule {
+  position: absolute;
+  top: 20px;
+  left: 600px;
+}
