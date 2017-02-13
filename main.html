@@ -5,8 +5,16 @@
   <title>Inception</title>
   <link href="https://fonts.googleapis.com/css?family=Josefin+Sans" rel="stylesheet">
   <link rel="stylesheet" type="text/css" href="styles.css">
+  <script>
+  function startTime() {
+    var today = new Date().toString().slice(0, 24);
+    document.getElementById('time').innerHTML = today;
+    var t = setTimeout(startTime, 500);
+  }
+  </script>
  </head>
- <body>
+ <body onload="startTime()">
+   <div id="time"></div>
    <!-- Media -->
    <div id="media">Media</div>
    <div id="youtube">
@@ -146,6 +154,11 @@
    <div id="lichess">
      <a href="https://ru.lichess.org/" title="Lichess" target="_blank">
        <img src="resources/lichess.png" alt="Lichess" height="60" width="60">
+     </a>
+   </div>
+   <div id="hh">
+     <a href="https://hh.ru/" title="HeadHunter" target="_blank">
+       <img src="resources/hh.png" alt="HeadHunter" height="60" width="60">
      </a>
    </div>
    <!-- Schedule -->
